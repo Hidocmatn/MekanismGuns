@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "mekanismguns:item/module_short_barrel_unit"
+    }
+}

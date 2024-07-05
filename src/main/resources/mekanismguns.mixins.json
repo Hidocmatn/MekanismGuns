@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hidocmatn.mekanismguns.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mekanismguns.refmap.json",
+  "mixins": [
+    "ModuleHelperMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
