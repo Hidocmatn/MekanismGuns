@@ -2,7 +2,6 @@ package com.hidocmatn.mekanismguns.common;
 
 import com.hidocmatn.mekanismguns.MekanismGuns;
 import com.hidocmatn.mekanismguns.utils.AmmoUnloader;
-import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
